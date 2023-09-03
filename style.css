@@ -1,0 +1,19 @@
+#indonesia-map {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #c3e6ef;
+}
+svg a {
+  fill: #7eded8;
+  stroke: #030303;
+  stroke-width: 1px;
+}
+svg a:hover {
+  fill: #599b92;
+  stroke: #365450;
+  stroke-width: 0.25;
+  transition: fill 0.3s;
+  cursor: pointer;
+}
